@@ -1,0 +1,35 @@
+{
+  "name": "node-drone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fly.js",
+  "scripts": {
+    "start": "react-scripts start "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^4.2.0",
+    "electron": "^5.0.3",
+    "express": "^4.17.1",
+    "ganglion-ble": "^1.0.0",
+    "muse-js": "^3.1.0",
+    "react-scripts": "^3.0.1",
+    "socket.io": "^2.2.0",
+    "react-dom": "^16.8.6",
+    "socket.io-client": "^2.2.0"
+
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
