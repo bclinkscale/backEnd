@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "delay": "^4.2.0",
-    "electron": "^5.0.3",
+    "electron": "^7.2.4",
     "express": "^4.17.1",
     "ganglion-ble": "^1.0.0",
     "muse-js": "^3.1.0",
