@@ -15,7 +15,7 @@
     "ganglion-ble": "^1.0.0",
     "muse-js": "^3.1.0",
     "react-scripts": "^3.0.1",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "react-dom": "^16.8.6",
     "socket.io-client": "^2.2.0"
 
