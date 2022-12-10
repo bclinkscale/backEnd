@@ -11,7 +11,7 @@
   "dependencies": {
     "delay": "^4.2.0",
     "electron": "^5.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ganglion-ble": "^1.0.0",
     "muse-js": "^3.1.0",
     "react-scripts": "^3.0.1",
